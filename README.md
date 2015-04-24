@@ -3,6 +3,8 @@
 
 I built this for home brewing to measure hot liquor tank and mash tun temperatures.
 
+Required libraries are included in the src. 
+
 ##Parts List:
 * ADAFRUIT PRO TRINKET - 5V 16MHZ
 [http://www.adafruit.com/products/2000]
